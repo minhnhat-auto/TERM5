@@ -1,0 +1,9 @@
+https://app.quizatclass.com/
+
+Videos
+https://www.youtube.com/watch?v=X3paOmcrTjQ
+https://www.youtube.com/watch?v=BOhgGA7Eu5E
+
+Datasets
+https://archive.ics.uci.edu/ml/datasets
+https://www.kaggle.com/datasets

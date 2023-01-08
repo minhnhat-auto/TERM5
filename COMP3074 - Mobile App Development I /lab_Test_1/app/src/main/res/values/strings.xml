@@ -1,0 +1,7 @@
+<resources>
+    <string name="name">Minh Nhat Vo</string>
+    <string name="id">101224717</string>
+    <string name="app_name">lab_Test_1</string>
+    <string name="menu_option">Colors</string>
+    <string name="tv_chooseCol">Choose Favorite Color for Background</string>
+</resources>
